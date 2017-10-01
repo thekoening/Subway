@@ -1,2 +1,3 @@
 Hallo, dit is versie 1 van garik1.txt
 Leuk dat je dit leest!
+Leuk dat je nog steeds aan het lezen bent!
