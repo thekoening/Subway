@@ -1,5 +1,0 @@
-Hallo, dit is versie 1 van anne1.txt
-~
-Dit is regel2.
-
-Dit is regel3.
